@@ -38,9 +38,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=haidersultan0&theme=github_dark&utcOffset=8)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=haidersultan0&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=haidersultan0&theme=github_dark)
-<p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=AndroidWithRossyn&theme=onedark&column=-1&title=Repositories,Stars,Commits,Followers,PullRequest,MultipleLang&margin-w=10" />
-</p>
+
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=haidersultan0&bg_color=0d1117&color=ffffff&line=40c463&point=fff7e0&area=true&hide_border=true)](https://github.com/haidersultan0/github-readme-activity-graph)
 
