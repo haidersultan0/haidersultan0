@@ -7,7 +7,7 @@
 
 
 
-<img align="right" alt="Coding" width="300" src="https://github.com/AndroidWithRossyn/AndroidWithRossyn/assets/118904953/f01daec3-1d1c-4f83-89e5-7454d9a573ad">
+
 
 - 🛡️ Building cybersecurity tools that solve real security problems.
 - 📖 Focused on learning, practicing, and improving defensive + offensive skills.
