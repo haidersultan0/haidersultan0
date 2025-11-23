@@ -1,4 +1,4 @@
-<h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey Everyone , I'm Rossyn</h2>
+<h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey Everyone , I'm Haider Sultan</h2>
 
 <p align="center">
 
