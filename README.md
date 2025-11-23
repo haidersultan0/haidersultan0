@@ -9,12 +9,11 @@
 
 <img align="right" alt="Coding" width="300" src="https://github.com/AndroidWithRossyn/AndroidWithRossyn/assets/118904953/f01daec3-1d1c-4f83-89e5-7454d9a573ad">
 
-- 👨‍💻 Building Android apps that help people every day.
-- 📖 Focused on learning and improving
-- 🛠️ Enjoy working on a variety of projects
-- 👥 Open to collaboration
-- 🔧 Offering services for Android Apps
-
+- 🛡️ Building cybersecurity tools that solve real security problems.
+- 📖 Focused on learning, practicing, and improving defensive + offensive skills.
+- 🧪 Enjoy working on security projects — malware analysis, detection scripts, automation, labs, etc.
+- 🤝 Open to collaboration on cybersecurity research, blue-team projects, and Python tools.
+- 🔧 Offering security-related services like malware analysis, threat hunting, log analysis, and security automation.
 
 <div align="start">
 
