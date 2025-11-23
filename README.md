@@ -69,23 +69,4 @@ My true work is in private repos.</span>
 
 
 
-## 💎 Exclusive Sponsor Benefits
-Want to level up your Android development?  
-Sponsors get **exclusive access** to a private collection of **premium source codes** and **advanced app templates**.
 
-These projects are ideal for learning, building apps faster, and exploring real-world codebases.
-
-🎁 **Sponsor Perks:**
-- Access to **exclusive premium project ZIPs** (CodeCanyon + other verified sources)  
-- Early access to new uploads  
-- Private support / guidance  
-
-👉 [Become a Sponsor](https://github.com/sponsors/AndroidWithRossyn)
-
-### 📱 **Premium Apps (Available on Play Store)**
-Check out my live apps — all these source codes are available for **sponsors or direct purchase**. ++ Source Code Availbe for Sell.
-
-| App Name | Play Store Link | Description |
-|-----------|-----------------|--------------|
-| 🚀 InSaver | [Play Store Link](https://play.google.com/store/apps/details?id=com.sumino.issave.storysaver.photovideo.downloader) | Premium Android App with modern UI |
-| 📷 GPS Map Camera | [Play Store Link](https://play.google.com/store/apps/details?id=com.sumino.geotagphoto.mapgpscamera.gpsvideo) | Real-time Overlay Lat-long Stamp 
