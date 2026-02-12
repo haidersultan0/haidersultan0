@@ -24,7 +24,7 @@
 <div align="start">
   
 <a href="mailto:h.sultan013578@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?logo=Gmail&logoColor=white"></a>
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rohitraj.khorwal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohitrajkhorwal/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@rohitrajkhorwal) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rohitraj.khorwal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohitrajkhorwal/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@h.sultan013578) 
 <a href="https://t.me/banrossyn" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4.svg?logo=Telegram&logoColor=white"></a>
 <a href="https://wa.me/+919694260426/" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366.svg?logo=WhatsApp&logoColor=white">
 </div>
@@ -63,7 +63,7 @@ My true work is in private repos.</span>
 
 ### :zap: Latest Medium Articles
 <!-- ARTICLES:START -->
-- [The 12 Principles I Personally Follow to Level Up Financially](https://rohitrajkhorwal.medium.com/the-12-principles-i-personally-follow-to-level-up-financially-5a45cfe1c7dc?source=rss-40883ee5aa3e------2)
+- [Why Python Is Important for Cyber Security?](https://medium.com/@h.sultan013578/why-python-is-important-for-cyber-security-99c137824973?)
 
 <!-- ARTICLES:END -->
 
